@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "an app to find the people thats youre compatible with and make freindsies with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahdia93/FriendFinder.git"
+  },
+  "author": "mahdia hashimy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahdia93/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Mahdia93/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "path": "^0.12.7"
+  }
+}
